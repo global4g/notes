@@ -1,0 +1,37 @@
+#java  #serialization
+https://frohoff.github.io/appseccali-marshalling-pickles/
+https://www.slideshare.net/frohoff1/deserialize-my-shorts-or-how-i-learned-to-start-worrying-and-hate-java-object-deserialization
+https://www.slideshare.net/cschneider4711/surviving-the-java-deserialization-apocalypse-owasp-appseceu-2016
+https://deadcode.me/blog/2016/09/02/Blind-Java-Deserialization-Commons-Gadgets.html
+https://github.com/matthiaskaiser/jmet
+https://christian-schneider.net/JavaDeserializationSecurityFAQ.html
+https://gist.github.com/pierre-ernst/6e411b123bd381bac0b66f02874e806d
+https://www.waratek.com/media/webinar-deserialization-recording/
+https://docs.oracle.com/javase/tutorial/reflect/class/classModifiers.html
+https://deadcode.me/blog/2016/09/02/Blind-Java-Deserialization-Commons-Gadgets.html
+https://docs.oracle.com/javase/7/docs/platform/serialization/spec/protocol.html
+https://bitbucket.org/gebl/
+https://portswigger.net/daily-swig/gadgetprobe-new-tool-simplifies-the-exploitation-of-java-deserialization-vulnerabilities
+https://know.bishopfox.com/research/gadgetprobe
+https://github.com/BishopFox/GadgetProbe
+https://github.com/NickstaDB/SerializationDumper
+https://github.com/NickstaDB/DeserLab
+http://gursevkalra.blogspot.com/2016/01/ysoserial-commonscollections1-exploit.html
+https://nickbloor.co.uk/2017/08/13/attacking-java-deserialization/
+https://diablohorn.com/2017/09/09/understanding-practicing-java-deserialization-exploits/
+https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
+https://github.com/frohoff/ysoserial
+https://github.com/GrrrDog/Sploits
+https://github.com/find-sec-bugs/find-sec-bugs/
+
+
+
+#tomcat ajp
+https://github.com/hypn0s/AJPy/blob/master/tomcat.py
+
+#rmi
+https://github.com/STMSolutions/RmiTaste
+
+
+
+
