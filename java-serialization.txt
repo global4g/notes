@@ -25,6 +25,8 @@ https://github.com/GrrrDog/Sploits
 https://github.com/find-sec-bugs/find-sec-bugs/
 https://www.youtube.com/watch?v=t-zVC-CxYjw
 https://github.com/kojenov/serial
+https://mogwailabs.de/en/blog/2019/04/attacking-rmi-based-jmx-services/
+
 
 
 
